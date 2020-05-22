@@ -2,7 +2,7 @@
   Movie-AR
   <br>
 </h1>
-<h4 align="center">Movies in Augmented reality, made with ARKit. Shows trailer, images, and star rating.</h4>
+<h4 align="center">Movies in Augmented reality, made with ARKit. Shows trailer, images, and star rating.<img src="Images/Gif.gif" ></h4>
 
 ## License
 
